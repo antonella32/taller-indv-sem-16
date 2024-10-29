@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif; 
+    background-color: #f8f9fa;
+    color: #ffffff; 
+}
+
+
+.navbar {
+    background-color: #6c757d; 
+    border-bottom: 1px solid #ffffff; 
+}
+
+
+.nav-link {
+    color: #ffffff; 
+    opacity: 0.5; 
+    transition: opacity 0.3s ease; 
+}
+
+.nav-link:hover {
+    opacity: 0.75; 
+}
+
+.carousel-inner h4 {
+    text-align: center; 
+}
+
+
+.quote {
+    background-color: #f8f9fa; 
+    padding: 1rem;
+    border-radius: 5px; 
+}
+
